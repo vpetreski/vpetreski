@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏻 Check more about me at my website: https://vanja.io
 
 <!--
 **vpetreski/vpetreski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
